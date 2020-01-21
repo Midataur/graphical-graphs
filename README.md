@@ -1,13 +1,13 @@
 # graphical-graphs
  A GUI for making graphs in pynode.
 
-##About the tool
+## About the tool
 
-####What does it do?
+#### What does it do?
 
 graphical-graphs is a tool for making graphs in pynode because doing it by hand is *super* tedious. It provides a native way to make and share graphs that doesn't require typing it all out by hand. After all, isn't pynode designed to make these things easier?
 
-####How do I use it?
+#### How do I use it?
 
 1. (Optional) Install pynode if you don't already have it. This repo comes with a version of it already but it isn't guaranteed to work on all platforms.
 2. Open `creator.py`
