@@ -1,0 +1,1763 @@
+[0505/175001.254:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175001.299:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175001.309:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175001.309:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175001.337:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175010.049:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175010.088:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175010.095:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175010.096:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175010.125:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175025.465:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175025.548:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175025.562:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175025.563:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175025.625:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175116.276:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175116.313:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175116.319:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175116.319:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175116.343:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175141.933:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175141.971:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175141.977:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175141.977:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175142.005:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175219.381:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0505/175220.767:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175220.807:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175220.814:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175220.814:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175220.844:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175225.167:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175225.207:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175225.216:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175225.216:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175225.245:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175231.476:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175231.514:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175231.523:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175231.523:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175231.550:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175238.995:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175239.036:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175239.043:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175239.043:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175239.073:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175301.217:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175301.291:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175301.302:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175301.302:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175301.349:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175303.739:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[0505/175305.100:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175305.139:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175305.145:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175305.145:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175305.170:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175349.970:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175350.041:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175350.054:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175350.054:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175350.113:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175409.345:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175409.384:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175409.390:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175409.390:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175409.423:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175442.108:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175442.220:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175442.239:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175442.239:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175442.340:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175459.636:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175459.675:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175459.681:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175459.681:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175459.710:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175747.387:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175747.487:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175747.501:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175747.501:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175747.546:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175828.600:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175828.641:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175828.647:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175828.647:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175828.670:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175919.857:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175919.918:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/175919.928:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/175919.928:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/175919.965:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/214853.199:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/214853.239:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/214853.267:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/214853.271:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/214853.273:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/214853.284:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0505/214853.284:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0505/214853.284:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0505/214853.284:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0505/214853.285:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0505/214930.013:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/214930.055:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/214930.061:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/214930.061:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/214930.086:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215008.148:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215008.192:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215008.199:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/215008.199:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/215008.223:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215029.481:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215029.524:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215029.530:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/215029.530:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/215029.558:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215126.975:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215127.015:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215127.023:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/215127.024:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/215127.049:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215141.743:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215141.783:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215141.789:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/215141.789:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/215141.801:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0505/215141.801:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0505/215141.801:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0505/215141.801:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0505/215141.801:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0505/215141.812:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215830.725:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215830.768:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/215830.777:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/215830.777:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/215830.803:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/220036.516:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/220036.556:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0505/220036.563:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0505/220036.563:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0505/220036.586:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/132237.039:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/132237.182:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/132237.291:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/132237.291:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/132237.311:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/132237.311:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/132237.311:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/132237.311:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/132237.311:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/132237.322:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/132356.179:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/132356.342:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/132356.374:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/132356.374:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/132356.389:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/132356.389:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/132356.389:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/132356.389:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/132356.389:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/132356.451:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133440.047:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133440.172:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133440.188:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/133440.188:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/133440.261:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133510.314:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133510.454:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133510.498:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/133510.498:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/133510.522:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/133510.522:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/133510.522:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/133510.522:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/133510.522:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/133510.546:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133528.833:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133528.942:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133528.958:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/133528.958:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/133528.973:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/133528.973:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/133528.973:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/133528.973:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/133528.973:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/133529.038:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133708.073:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133708.185:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133708.205:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/133708.205:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/133708.308:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133800.399:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133800.503:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133800.526:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/133800.526:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/133800.630:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133849.935:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133850.059:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133850.077:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/133850.077:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/133850.172:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133935.998:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133936.096:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/133936.119:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/133936.120:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/133936.241:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134010.189:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134010.335:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134010.348:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/134010.348:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/134010.438:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134208.867:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134209.008:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134209.024:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/134209.024:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/134209.113:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134251.286:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134251.433:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134251.478:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/134251.478:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/134251.492:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134251.492:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134251.493:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134251.493:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134251.493:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134251.507:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134611.550:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134611.722:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134611.800:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/134611.800:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/134611.862:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134611.862:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134611.862:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134611.862:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134611.862:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134611.906:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134737.127:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134737.486:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134737.549:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/134737.549:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/134737.627:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134737.674:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134737.674:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134737.674:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134737.674:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134737.674:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134751.669:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134751.794:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134751.810:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/134751.810:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/134751.841:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134751.841:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134751.841:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134751.841:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134751.841:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/134751.869:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134843.065:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134843.174:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134843.190:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/134843.190:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/134843.282:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134947.617:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134947.711:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/134947.742:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/134947.742:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/134947.813:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135300.405:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135300.514:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135300.530:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/135300.530:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/135300.605:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135353.826:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135353.966:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135353.982:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/135353.982:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/135354.029:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/135354.029:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/135354.029:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/135354.029:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/135354.029:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/135354.054:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135516.299:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135516.393:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135516.424:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/135516.424:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/135516.501:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135608.068:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135608.178:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/135608.209:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/135608.209:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/135608.283:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/140728.852:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/140728.977:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/140728.993:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/140728.993:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/140729.008:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/140729.008:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/140729.008:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/140729.008:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/140729.008:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/140729.054:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/140752.571:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/140752.680:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/140752.711:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/140752.711:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/140752.727:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/140752.727:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/140752.727:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/140752.727:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/140752.727:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/140752.755:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/140758.302:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/140758.395:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/140758.411:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/140758.411:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/140758.502:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/140802.139:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/141025.483:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/141025.592:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/141025.608:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/141025.624:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/141025.682:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/141126.098:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/141126.223:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/141126.254:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/141126.254:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/141126.270:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/141126.270:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/141126.270:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/141126.270:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/141126.270:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/141126.311:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/141130.318:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[1209/141153.280:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/141153.483:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/141153.499:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/141153.499:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/141153.499:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/141153.499:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/141153.499:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/141153.499:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/141153.499:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/141153.607:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/141305.931:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/141306.040:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/141306.056:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/141306.056:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/141306.139:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142142.867:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142142.977:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142142.992:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/142142.992:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/142143.074:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142208.009:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142208.118:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142208.134:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/142208.134:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/142208.181:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142208.181:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142208.181:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142208.181:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142208.181:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142208.220:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142223.607:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142223.764:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142223.779:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/142223.779:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/142223.826:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142223.826:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142223.826:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142223.826:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142223.826:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142223.856:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142437.400:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142437.546:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/142437.578:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/142437.578:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/142437.598:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142437.598:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142437.598:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142437.598:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142437.598:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/142437.630:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/151026.234:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/151026.328:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/151026.343:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/151026.359:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/151026.440:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/151848.839:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/151848.965:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/151848.984:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/151848.984:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/151848.993:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/151848.995:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/151848.996:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/151848.997:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/151848.998:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/151849.058:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/152023.758:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/152023.870:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/152023.884:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/152023.885:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/152024.015:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155426.468:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155426.596:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155426.612:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/155426.612:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/155426.619:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/155426.619:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/155426.619:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/155426.619:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/155426.619:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/155426.680:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155813.279:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155813.414:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155813.433:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/155813.434:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/155813.530:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155909.973:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155910.105:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155910.118:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/155910.118:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/155910.212:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155950.359:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155950.484:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/155950.507:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/155950.507:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/155950.593:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160010.938:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160011.043:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160011.057:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/160011.058:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/160011.156:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160120.765:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160120.875:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160120.901:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/160120.902:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/160120.995:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160204.664:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160204.774:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160204.791:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/160204.791:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/160204.883:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160241.454:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160241.579:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160241.594:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/160241.595:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/160241.623:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/160241.623:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/160241.623:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/160241.623:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/160241.623:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/160241.661:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160725.803:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160725.911:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160725.928:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/160725.928:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/160726.016:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160752.163:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160752.257:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/160752.276:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/160752.276:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/160752.365:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161109.203:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161109.346:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161109.370:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/161109.370:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/161109.470:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161505.792:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161505.897:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161505.917:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/161505.917:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/161506.029:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161557.022:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161557.125:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161557.157:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/161557.157:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/161557.192:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/161557.192:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/161557.192:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/161557.192:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/161557.192:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/161557.232:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161645.703:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161645.842:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161645.859:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/161645.860:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/161645.933:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161714.028:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161714.136:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161714.156:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/161714.156:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/161714.241:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161823.068:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161823.253:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161823.277:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/161823.278:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/161823.350:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161927.182:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161927.309:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161927.335:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/161927.335:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/161927.413:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161947.338:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161947.507:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/161947.529:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/161947.529:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/161947.539:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/161947.544:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/161947.544:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/161947.544:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/161947.545:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/161947.607:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172115.186:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172115.382:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172115.409:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/172115.409:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/172115.424:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/172115.424:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/172115.425:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/172115.425:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/172115.425:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/172115.487:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172143.442:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172143.625:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172143.638:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/172143.638:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/172143.719:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172245.807:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172245.934:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172245.964:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/172245.964:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/172246.056:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172359.972:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172400.119:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172400.146:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/172400.147:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/172400.249:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172446.707:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172446.937:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172446.954:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/172446.954:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/172447.046:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172632.627:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172632.747:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172632.766:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/172632.766:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/172632.832:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172724.628:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172724.737:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172724.761:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/172724.761:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/172724.876:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172757.867:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172758.032:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172758.054:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/172758.054:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/172758.152:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172809.194:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/172811.891:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172812.030:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/172812.045:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/172812.046:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/172812.091:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/172812.091:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/172812.091:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/172812.091:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/172812.092:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/172812.121:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173018.690:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173018.860:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173018.880:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/173018.880:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/173018.972:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173129.630:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173129.767:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173129.799:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/173129.799:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/173129.806:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173129.806:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173129.806:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173129.806:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173129.807:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173129.833:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173146.036:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/173149.365:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173149.479:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173149.499:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/173149.499:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/173149.596:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173305.310:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173305.434:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173305.452:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/173305.452:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/173305.465:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173305.466:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173305.467:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173305.467:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173305.467:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173305.513:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173718.101:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173718.266:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173718.302:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/173718.302:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/173718.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173718.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173718.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173718.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173718.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173718.365:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173848.796:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173848.935:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/173848.970:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/173848.970:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/173849.009:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173849.009:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173849.009:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173849.009:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173849.009:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/173849.033:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174025.832:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174026.005:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174026.039:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/174026.040:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/174026.130:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174235.474:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174235.602:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174235.643:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/174235.643:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/174235.746:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174705.350:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174705.567:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174705.583:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/174705.583:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/174705.666:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174719.305:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174719.446:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174719.465:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/174719.465:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/174719.541:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174802.775:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174802.896:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174802.914:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/174802.914:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/174802.993:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174945.588:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174945.763:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/174945.782:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/174945.782:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/174945.857:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175042.001:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175042.180:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175042.197:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/175042.197:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/175042.288:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175115.611:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175115.767:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175115.787:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/175115.787:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/175115.856:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175115.856:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175115.856:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175115.856:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175115.856:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175115.899:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175145.516:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175145.710:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175145.751:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/175145.751:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/175145.796:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175145.796:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175145.796:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175145.796:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175145.796:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175145.840:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175239.705:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/175301.899:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175302.052:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175302.082:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/175302.082:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/175302.142:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175302.143:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175302.143:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175302.143:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175302.143:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175302.170:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175311.798:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/175318.413:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/175319.117:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175319.282:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175319.305:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/175319.305:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/175319.419:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175340.515:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/175343.812:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175343.937:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175343.971:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/175343.972:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/175344.067:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175442.422:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/175444.597:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175444.742:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175444.760:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/175444.760:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/175444.841:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175630.210:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175630.341:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175630.363:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/175630.363:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/175630.375:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175630.376:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175630.377:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175630.378:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175630.379:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/175630.443:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175709.064:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175709.179:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175709.203:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/175709.203:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/175709.313:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175843.141:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175843.250:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175843.266:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/175843.266:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/175843.338:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175851.253:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/175909.239:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175909.349:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/175909.364:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/175909.364:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/175909.423:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180041.275:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180041.369:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180041.400:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/180041.400:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/180041.502:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180103.803:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/180123.229:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180123.322:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180123.354:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/180123.354:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/180123.434:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180247.023:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180247.137:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180247.168:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/180247.168:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/180247.252:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180256.681:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180256.836:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/180256.872:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/180256.872:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/180256.886:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/180256.886:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/180256.886:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/180256.886:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/180256.886:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/180256.914:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/181339.252:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/181339.374:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/181339.406:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/181339.421:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/181339.421:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/181339.421:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/181339.421:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/181339.421:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/181339.421:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/181339.465:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/181348.253:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/185641.394:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/185641.519:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/185641.550:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/185641.550:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/185641.550:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/185641.550:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/185641.550:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/185641.550:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/185641.550:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/185641.599:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/185757.239:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/185757.364:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/185757.395:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/185757.395:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/185757.495:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/185825.926:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/185826.066:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/185826.082:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/185826.082:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/185826.098:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/185826.098:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/185826.098:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/185826.098:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/185826.098:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/185826.144:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190150.460:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190150.585:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190150.600:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/190150.600:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/190150.670:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190245.242:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190245.336:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190245.367:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/190245.367:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/190245.434:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190317.296:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190317.405:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190317.421:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/190317.421:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/190317.499:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190514.982:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190515.104:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/190515.119:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/190515.119:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/190515.194:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/191521.695:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/191521.851:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/191521.867:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/191521.867:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/191521.914:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/191521.914:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/191521.914:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/191521.914:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/191521.914:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/191521.953:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/191543.141:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/191543.258:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/191543.282:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/191543.282:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/191543.286:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/191543.286:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/191543.286:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/191543.286:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/191543.286:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/191543.352:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193130.463:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193130.604:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193130.635:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/193130.635:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/193130.651:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193130.651:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193130.651:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193130.651:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193130.651:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193130.691:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193224.299:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193224.446:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193224.477:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/193224.477:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/193224.493:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193224.493:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193224.493:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193224.493:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193224.493:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193224.539:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193307.265:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193307.366:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193307.382:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/193307.382:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/193307.429:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193307.429:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193307.429:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193307.429:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193307.429:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1209/193307.456:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193521.165:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193521.268:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193521.286:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/193521.286:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/193521.370:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193538.294:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193538.403:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193538.419:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/193538.419:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/193538.499:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193730.905:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193731.017:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193731.035:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/193731.035:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/193731.117:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193913.725:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193913.819:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/193913.850:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/193913.850:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/193913.939:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194011.403:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194011.497:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194011.528:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/194011.528:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/194011.603:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194126.975:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194127.077:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194127.106:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/194127.106:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/194127.186:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194356.205:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194356.298:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194356.314:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/194356.314:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/194356.414:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194406.664:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1209/194417.018:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194417.114:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194417.145:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1209/194417.145:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1209/194417.219:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1209/194719.804:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1210/084115.570:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/084115.714:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/084115.754:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/084115.754:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/084115.778:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/084115.778:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/084115.778:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/084115.778:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/084115.778:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/084115.841:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/084317.969:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/084318.073:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/084318.093:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/084318.093:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/084318.185:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/084526.571:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/084526.664:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/084526.688:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/084526.688:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/084526.765:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/125744.132:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1210/125751.482:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/125751.598:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/125751.622:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/125751.622:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/125751.685:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/125751.685:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/125751.685:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/125751.685:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/125751.685:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/125751.729:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/125924.607:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/125924.700:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/125924.726:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/125924.726:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/125924.809:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130142.523:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1210/130150.020:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130150.133:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130150.149:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/130150.149:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/130150.213:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130412.483:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130412.583:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130412.599:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/130412.599:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/130412.679:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130443.387:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130443.491:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130443.507:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/130443.507:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/130443.619:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130616.618:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130616.767:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130616.798:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/130616.798:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/130616.798:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/130616.798:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/130616.798:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/130616.798:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/130616.798:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/130616.831:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130627.644:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130627.738:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/130627.769:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/130627.769:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/130627.845:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/131148.746:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/131148.841:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/131148.873:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/131148.873:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/131148.957:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/163554.457:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/163554.602:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1210/163554.631:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1210/163554.632:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1210/163554.646:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/163554.646:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/163554.646:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/163554.647:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/163554.647:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1210/163554.700:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/093314.213:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/093314.426:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/093314.442:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/093314.443:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/093314.531:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/093546.986:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/093547.104:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/093547.130:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/093547.130:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/093547.147:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/093547.148:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/093547.149:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/093547.149:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/093547.149:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/093547.205:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/093948.668:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/093948.830:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/093948.862:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/093948.862:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/093948.889:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/093948.906:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/093948.906:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/093948.906:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/093948.906:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/093948.906:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/094805.610:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/094805.719:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/094805.735:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/094805.735:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/094805.766:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/094805.766:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/094805.766:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/094805.766:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/094805.766:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/094805.811:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/094845.177:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/094845.321:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/094845.343:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/094845.343:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/094845.421:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102059.668:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102059.856:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102059.875:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/102059.875:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/102059.978:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102144.153:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102144.288:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102144.310:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/102144.310:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/102144.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/102144.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/102144.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/102144.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/102144.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/102144.369:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102214.749:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102214.848:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102214.864:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/102214.864:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/102214.958:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102315.878:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102315.989:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102316.004:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/102316.004:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/102316.105:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102413.995:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102414.090:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102414.110:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/102414.111:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/102414.199:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102753.970:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102754.095:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102754.111:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/102754.111:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/102754.185:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102824.441:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102824.535:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102824.551:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/102824.551:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/102824.652:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102851.117:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102851.210:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/102851.226:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/102851.226:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/102851.315:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/103314.264:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/103314.367:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/103314.393:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/103314.393:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/103314.491:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/103648.543:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/103648.671:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/103648.687:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/103648.687:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/103648.694:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/103648.695:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/103648.695:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/103648.695:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/103648.696:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/103648.755:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/103731.203:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/103731.348:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/103731.362:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/103731.362:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/103731.438:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150132.402:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150132.549:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150132.570:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/150132.570:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/150132.583:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/150132.583:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/150132.583:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/150132.583:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/150132.583:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/150132.632:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150558.304:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150558.491:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150558.538:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/150558.538:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/150558.743:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150714.031:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150714.140:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150714.171:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/150714.171:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/150714.171:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/150714.171:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/150714.171:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/150714.171:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/150714.171:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/150714.201:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150921.452:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150921.545:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/150921.561:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/150921.561:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/150921.612:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/151058.713:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/151058.807:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/151058.838:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/151058.838:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/151058.838:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/151058.838:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/151058.838:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/151058.838:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/151058.838:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/151058.875:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/180129.731:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/180129.913:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/180129.931:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/180129.931:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/180129.945:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/180129.945:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/180129.945:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/180129.945:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/180129.945:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/180129.994:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/180150.161:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1211/180209.072:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/180209.169:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/180209.191:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/180209.192:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/180209.218:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/180209.218:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/180209.218:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/180209.219:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/180209.219:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/180209.292:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/184214.390:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/184214.546:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/184214.562:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/184214.562:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/184214.568:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/184214.568:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/184214.568:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/184214.568:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/184214.569:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/184214.778:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/184220.977:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1211/185830.168:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/185830.319:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/185830.343:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/185830.344:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/185830.355:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/185830.355:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/185830.355:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/185830.356:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/185830.356:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/185830.384:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/185917.261:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/185917.381:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/185917.407:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/185917.407:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/185917.437:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/185917.437:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/185917.437:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/185917.437:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/185917.437:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/185917.521:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/185950.956:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1211/190019.982:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190020.061:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190020.107:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/190020.107:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/190020.107:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190020.107:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190020.107:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190020.107:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190020.107:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190020.159:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190051.173:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190051.283:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190051.314:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/190051.314:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/190051.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190051.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190051.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190051.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190051.329:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190051.352:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190110.499:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190110.577:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190110.593:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/190110.593:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/190110.657:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190143.912:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190144.037:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190144.052:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/190144.052:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/190144.068:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190144.068:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190144.068:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190144.068:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190144.068:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190144.105:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190214.056:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190214.150:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190214.166:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/190214.166:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/190214.226:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190220.164:ERROR:broker_win.cc(59)] Error reading broker pipe: The pipe has been ended. (0x6D)
+[1211/190227.057:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190227.181:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190227.213:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/190227.213:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/190227.228:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190227.228:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190227.228:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190227.228:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190227.228:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/190227.253:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190254.467:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190254.561:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/190254.576:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/190254.576:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/190254.653:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194319.083:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194319.208:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194319.239:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/194319.239:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/194319.254:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194319.254:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194319.254:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194319.254:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194319.254:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194319.293:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194424.214:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194424.324:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194424.355:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/194424.355:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/194424.370:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194424.370:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194424.370:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194424.370:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194424.370:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194424.397:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194540.141:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194540.234:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194540.266:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/194540.266:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/194540.281:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194540.281:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194540.281:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194540.281:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194540.281:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194540.312:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194628.627:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194628.736:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194628.767:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/194628.767:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/194628.783:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194628.783:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194628.783:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194628.783:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194628.783:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194628.810:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194759.545:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194759.639:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194759.654:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/194759.654:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/194759.670:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194759.670:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194759.670:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194759.670:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194759.670:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194759.712:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194910.236:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194910.330:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194910.361:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/194910.361:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/194910.377:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194910.377:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194910.377:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194910.377:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194910.377:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/194910.404:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194945.779:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194945.857:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/194945.888:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/194945.888:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/194945.944:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195058.880:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195058.958:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195058.974:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/195058.974:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/195059.042:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195131.913:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195132.023:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195132.038:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/195132.038:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/195132.054:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195132.054:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195132.054:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195132.054:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195132.054:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195132.103:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195236.898:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195237.008:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195237.023:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/195237.023:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/195237.039:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195237.039:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195237.039:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195237.039:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195237.039:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195237.084:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195415.881:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195415.959:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195415.990:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/195415.990:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/195416.079:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195637.972:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195638.097:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195638.128:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/195638.128:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/195638.144:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195638.144:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195638.144:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195638.144:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195638.144:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195638.187:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195727.211:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195727.320:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195727.352:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/195727.352:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/195727.367:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195727.367:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195727.367:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195727.367:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195727.367:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195727.391:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195802.827:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195802.952:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195802.968:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/195802.968:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/195803.014:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195803.014:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195803.014:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195803.014:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195803.014:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195803.033:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195835.821:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195835.915:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/195835.931:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/195835.931:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/195835.946:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195835.946:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195835.946:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195835.946:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195835.946:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/195835.987:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200017.275:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200017.369:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200017.385:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/200017.385:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/200017.449:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200450.109:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200450.203:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200450.218:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/200450.218:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/200450.250:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200450.250:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200450.250:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200450.250:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200450.250:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200450.286:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200602.391:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200602.485:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200602.516:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/200602.516:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/200602.532:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200602.532:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200602.532:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200602.532:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200602.532:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200602.565:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200641.449:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200641.527:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200641.542:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/200641.542:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/200641.617:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200752.020:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200752.098:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200752.114:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/200752.114:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/200752.180:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200817.121:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200817.199:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200817.246:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/200817.246:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/200817.277:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200817.277:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200817.277:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200817.277:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200817.277:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200817.308:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200844.291:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200844.385:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200844.416:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/200844.416:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/200844.432:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200844.432:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200844.432:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200844.432:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200844.432:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200844.463:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200909.607:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200909.701:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/200909.732:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/200909.732:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/200909.748:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200909.748:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200909.748:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200909.748:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200909.748:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/200909.774:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/201023.157:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/201023.266:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/201023.298:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/201023.298:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/201023.298:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/201023.298:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/201023.313:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/201023.313:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/201023.313:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/201023.341:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/201409.274:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/201409.384:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/201409.399:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/201409.399:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/201409.399:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/201409.399:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/201409.399:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/201409.399:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/201409.399:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/201409.449:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202041.126:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202041.251:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202041.266:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/202041.266:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/202041.282:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202041.282:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202041.282:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202041.282:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202041.282:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202041.318:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202309.348:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202309.477:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202309.510:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/202309.511:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/202309.542:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202309.542:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202309.542:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202309.542:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202309.542:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202309.572:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202339.729:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202339.869:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202339.901:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/202339.901:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/202339.916:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202339.916:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202339.916:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202339.916:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202339.916:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202339.960:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202342.491:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1211/202531.807:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202531.900:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202531.932:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/202531.932:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/202531.947:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202531.947:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202531.947:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202531.947:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202531.947:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202531.989:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202856.125:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202856.235:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202856.250:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/202856.250:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/202856.282:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202856.282:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202856.282:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202856.282:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202856.282:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202856.315:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202910.704:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202910.819:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202910.838:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/202910.838:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/202910.870:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202910.870:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202910.870:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202910.870:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202910.870:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202910.899:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202924.643:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202924.812:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202924.845:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/202924.846:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/202924.871:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202924.871:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202924.871:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202924.871:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202924.871:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/202924.899:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/202934.644:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1211/202942.286:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1211/203033.897:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/203034.048:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1211/203034.076:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1211/203034.076:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1211/203034.103:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/203034.103:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/203034.103:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/203034.103:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/203034.104:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1211/203034.142:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084135.853:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084135.946:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084136.009:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/084136.009:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/084136.009:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084136.025:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084136.025:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084136.025:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084136.025:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084136.025:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084154.653:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084154.761:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084154.781:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/084154.781:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/084154.813:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084154.813:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084154.817:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084154.817:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084154.817:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084154.849:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084200.991:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1212/084211.910:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084211.989:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084212.004:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/084212.004:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/084212.079:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084235.680:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1212/084250.151:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084250.245:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/084250.260:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/084250.260:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/084250.276:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084250.276:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084250.276:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084250.276:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084250.276:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/084250.310:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/090300.532:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/090300.642:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/090300.657:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/090300.657:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/090300.673:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090300.673:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090300.673:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090300.673:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090300.673:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090300.703:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/090306.011:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/090306.105:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/090306.136:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/090306.136:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/090306.136:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090306.136:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090306.136:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090306.136:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090306.136:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090306.167:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/090733.952:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/090734.046:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/090734.077:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/090734.077:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/090734.093:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090734.093:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090734.093:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090734.093:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090734.093:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/090734.135:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091007.010:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091007.138:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091007.158:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/091007.158:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/091007.262:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091007.262:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091007.262:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091007.262:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091007.262:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091007.262:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091515.088:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091515.182:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091515.213:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/091515.213:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/091515.229:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091515.229:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091515.229:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091515.229:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091515.229:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091515.255:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091534.666:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091534.760:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091534.791:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/091534.791:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/091534.807:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091534.807:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091534.807:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091534.807:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091534.807:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091534.843:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091657.109:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091657.202:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091657.234:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/091657.234:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/091657.234:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091657.249:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091657.249:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091657.249:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091657.249:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091657.277:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091721.856:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091722.020:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/091722.048:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/091722.048:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/091722.104:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091722.104:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091722.104:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091722.104:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091722.104:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/091722.148:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/111420.551:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/111420.671:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/111420.702:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/111420.702:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/111420.715:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111420.715:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111420.715:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111420.715:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111420.715:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111420.765:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/111448.511:ERROR:broker_win.cc(138)] Error sending sync broker message
+[1212/111455.749:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/111455.852:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/111455.871:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/111455.871:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/111455.894:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111455.895:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111455.895:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111455.895:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111455.895:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111455.921:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/111511.883:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/111512.013:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/111512.033:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/111512.033:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/111512.040:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111512.040:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111512.040:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111512.040:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111512.040:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/111512.095:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/112648.185:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/112648.295:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/112648.318:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/112648.318:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/112648.346:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112648.346:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112648.346:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112648.346:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112648.346:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112648.374:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/112655.813:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/112655.906:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/112655.929:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/112655.929:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/112655.950:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112655.950:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112655.951:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112655.951:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112655.951:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112656.012:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/112703.589:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/112703.724:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/112703.747:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/112703.747:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/112703.793:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112703.793:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112703.794:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112703.794:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112703.794:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/112703.817:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/114504.510:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/114504.635:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/114504.666:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/114504.666:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/114504.682:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/114504.682:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/114504.682:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/114504.682:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/114504.682:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/114504.732:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/114939.755:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/114939.848:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/114939.880:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/114939.880:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/114939.895:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/114939.895:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/114939.895:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/114939.895:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/114939.895:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/114939.927:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/115054.708:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/115054.831:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/115054.862:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/115054.862:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/115054.876:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/115054.876:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/115054.876:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/115054.876:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/115054.876:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/115054.896:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/115107.274:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/115107.420:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[1212/115107.451:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[1212/115107.451:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[1212/115107.473:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/115107.473:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/115107.473:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/115107.473:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/115107.474:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[1212/115107.510:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
