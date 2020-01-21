@@ -11,8 +11,8 @@ graphical-graphs is a tool for making graphs in pynode because doing it by hand 
 
 1. (Optional) Install pynode if you don't already have it. This repo comes with a version of it already but it isn't guaranteed to work on all platforms.
 2. Open `creator.py`
-3. Specify the number of nodes you want in the `node_num` variable in the `creator.py` source. Dynamic addition of nodes will be added soon.
 4. Run `creator.py`
+4. To add a node, click the "create_node" button
 5. To select a node, just click on it.
 6. To create an edge between two nodes, first select a node and then click on another node. Be careful as there isn't currently an easy way to undo edge creation.
 7. When you're done, click on the green node labeled "save". The graph will be saved as a python pickle file.
