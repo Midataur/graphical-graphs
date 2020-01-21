@@ -27,7 +27,7 @@ graph.add_all(data)
 
 ## Upcoming features:
 
-* Dynamically adding nodes
+* ~~Dynamically adding nodes~~ *Done!*
 * Directed edges
 * Undo button
 * (Maybe) Node deletion button
