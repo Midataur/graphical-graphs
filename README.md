@@ -10,7 +10,6 @@ graphical-graphs is a tool for making graphs in pynode because doing it by hand 
 #### How do I use it?
 
 1. (Optional) Install pynode if you don't already have it. This repo comes with a version of it already but it isn't guaranteed to work on all platforms.
-2. Open `creator.py`
 4. Run `creator.py`
 4. To add a node, click the yellow "create_node" button
 5. To select a node, just click on it.
