@@ -12,14 +12,15 @@ graphical-graphs is a tool for making graphs in pynode because doing it by hand 
 1. (Optional) Install pynode if you don't already have it. This repo comes with a version of it already but it isn't guaranteed to work on all platforms.
 2. Open `creator.py`
 4. Run `creator.py`
-4. To add a node, click the "create_node" button
+4. To add a node, click the yellow "create_node" button
 5. To select a node, just click on it.
-6. To create an edge between two nodes, first select a node and then click on another node. Be careful as there isn't currently an easy way to undo edge creation.
-7. When you're done, click on the green node labeled "save". The graph will be saved as a python pickle file.
-8. To use the graph again in another program, add the following code to the top of the run function:
+6. To create an edge between two nodes, first select a node and then click on another node. 
+7. To undo a step, click the red "undo" node
+8. When you're done, click on the green button labeled "save". The graph will be saved as a python pickle file.
+9. To use the graph again in another program, add the following code to the top of the run function:
 ```python
 #load graph
-data = pickle.load(open('maze.g','rb'))
+data = pickle.load(open('graph.g','rb'))
 graph.add_all(data)
 ```
 
@@ -29,7 +30,7 @@ graph.add_all(data)
 
 * ~~Dynamically adding nodes~~ *Done!*
 * Directed edges
-* Undo button
-* (Maybe) Node deletion button
+* ~~Undo button~~ *Done!*
+* (Maybe) Node deletion button that isn't undo
 
 If you have any other ideas for features tell me and I'll add them, or, feel free to make a pull request!
