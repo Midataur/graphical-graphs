@@ -15,6 +15,7 @@ graphical-graphs is a tool for making graphs in pynode because doing it by hand 
 5. To select a node, just click on it.
 6. To create an edge between two nodes, first select a node and then click on another node. 
 7. To undo a step, click the red "undo" node
+7. To toggle directed edges, click the black "directed" button. If it's turned on, the node will have an edge that connects it to itself.
 8. When you're done, click on the green button labeled "save". The graph will be saved as a python pickle file.
 9. To use the graph again in another program, add the following code to the top of the run function:
 ```python
@@ -28,8 +29,9 @@ graph.add_all(data)
 ## Upcoming features:
 
 * ~~Dynamically adding nodes~~ *Done!*
-* Directed edges
+* ~~Directed edges~~ *Done!*
 * ~~Undo button~~ *Done!*
+* (Maybe) Redo button
 * (Maybe) Node deletion button that isn't undo
 
 If you have any other ideas for features tell me and I'll add them, or, feel free to make a pull request!

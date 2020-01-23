@@ -2,6 +2,7 @@ from pynode.main import *
 import pickle
 
 highest_id = 0
+edges_are_directed = False
 
 def save(*args,**kwargs):
     data = graph.nodes()+graph.edges()
@@ -19,8 +20,22 @@ def undo(history,*args,**kwargs):
         if type(last_creation) == Node:
             highest_id -= 1
 
+def directed_toggle(this_node,*args,**kwargs):
+    global edges_are_directed
+    edges_are_directed ^= True
+    if edges_are_directed:
+        graph.add_edge(this_node,this_node)
+    else:
+        toggle_edge = this_node.incident_edges()[0]
+        graph.remove_edge(toggle_edge)
+
 def create_edge(selected,new_selection,*args,**kwargs):
-    new_edge = Edge(selected,new_selection)
+    global edges_are_directed
+    new_edge = Edge(
+        selected,
+        new_selection,
+        directed=edges_are_directed
+    )
     graph.add_edge(new_edge)
     selected.set_color(Color.DARK_GREY)
     return new_edge

@@ -18,13 +18,20 @@ special_nodes = {
     'undo':{
         'function':undo,
         'colour':Color.RED
+    },
+    'directed':{
+        'function':directed_toggle,
+        'colour':Color.BLACK
     }
 }
 
 def on_click(new_selection):
     global selected,special,history
     if new_selection.id() in special_nodes.keys():
-        return special_nodes[new_selection.id()]['function'](history=history)
+        return special_nodes[new_selection.id()]['function'](
+            history=history,
+            this_node=new_selection
+        )
     if not selected:
         selected = new_selection
         new_selection.set_color(Color.BLUE)
