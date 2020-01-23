@@ -4,6 +4,7 @@ import pickle
 import queue
 
 #globals
+filename = 'graph.g'
 selected = None
 history = queue.LifoQueue()
 special_nodes = {
@@ -26,11 +27,12 @@ special_nodes = {
 }
 
 def on_click(new_selection):
-    global selected,special,history
+    global selected,special,history,filename
     if new_selection.id() in special_nodes.keys():
         return special_nodes[new_selection.id()]['function'](
             history=history,
-            this_node=new_selection
+            this_node=new_selection,
+            filename=filename
         )
     if not selected:
         selected = new_selection

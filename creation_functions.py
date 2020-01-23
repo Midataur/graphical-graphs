@@ -4,10 +4,10 @@ import pickle
 highest_id = 0
 edges_are_directed = False
 
-def save(*args,**kwargs):
+def save(filename,*args,**kwargs):
     data = graph.nodes()+graph.edges()
     data = [node for node in data if not node.attribute('special')]
-    pickle.dump(data,open('graph.g','wb'))
+    pickle.dump(data,open(filename,'wb'))
     print('Saved!')
 
 def undo(history,*args,**kwargs):
