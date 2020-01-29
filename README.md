@@ -31,6 +31,7 @@ graph.add_all(data)
 * ~~Dynamically adding nodes~~ *Done!*
 * ~~Directed edges~~ *Done!*
 * ~~Undo button~~ *Done!*
+* Nodes are spread out at the start
 * (Maybe) Redo button
 * (Maybe) Node deletion button that isn't undo
 

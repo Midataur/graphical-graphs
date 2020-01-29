@@ -12,7 +12,7 @@ special_nodes = {
         'function':save,
         'colour':Color.GREEN
     },
-    'create_node':{
+    'create':{
         'function':create_node,
         'colour':Color.YELLOW
     },
@@ -43,10 +43,15 @@ def on_click(new_selection):
         selected = None
 
 def run():
+    offset = 0.1
+    #dynamically sets the starting position of the nodes
+    current_x = (1-(offset*len(special_nodes)))/2
     for name,details in special_nodes.items():
         node = Node(id=name)
         node.set_color(details['colour'])
         node.set_attribute('special',True)
+        node.set_position(current_x,0.5,relative=True)
+        current_x += offset
         graph.add_node(node)
 
 register_click_listener(on_click)
